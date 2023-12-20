@@ -8,7 +8,7 @@ function voltar() {
   mudaMain.innerHTML = `<h1>Minha lista de favoritos:</h1>
   <div class="filmes-capa">
       <img src="https://cinemaemcena.com.br/uploads/criticas_old/filmes-1983-cartazes-2391.jpg" onclick="mostrafilme1()">
-          <img src="https://imgsnotigram.s3.amazonaws.com/uploads/2020/12/b2fd17b21c1b73178ee4495ef335d221.jpg" onclick="mostrafilme2()">
+          <img src="https://upload.wikimedia.org/wikipedia/pt/1/1d/Harry_Potter_Pedra_Filosofal_2001.jpg" onclick="mostrafilme2()">
           <img src="https://br.web.img3.acsta.net/medias/nmedia/18/90/78/52/20295598.jpg" onclick="mostrafilme3()">
           <img src="https://upload.wikimedia.org/wikipedia/pt/thumb/0/0d/Meangirls.jpg/245px-Meangirls.jpg" onclick="mostrafilme4()">
   </div>`
