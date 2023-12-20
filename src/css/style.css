@@ -18,7 +18,8 @@ body {
 
 .background-gradiente {
   height: 100vh;
-  background-color: #010414ad;
+  background-image: url("https://bhaz.com.br/wp-content/uploads/2016/09/Interno_SalaCinema-2.jpg");
+  /* background-color: #010414ad; */
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
